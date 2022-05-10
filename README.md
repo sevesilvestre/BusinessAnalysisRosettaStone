@@ -12,3 +12,9 @@ Microsoft Excel
 Noticed that geographically, there was an opportunity to push Rosetta Stone harder with more aggressive marketing tactics based on the countries that were active the most on Rosetta Stone, and even providing a discount to customers looking to learn a language that is becoming popular in demand such as Japanese or Korean. 
 
 Also segmented our customers using the point system and distinguished that customers with low points would focus on retention and initial incentives and customers with high points can be offered the best promotions and deals.
+
+## Linear Regression Slide
+![](https://github.com/sevesilvestre/BusinessAnalysisRosettaStone/blob/main/images/LinearRegression.png)
+
+## Point System Slide
+![](https://github.com/sevesilvestre/BusinessAnalysisRosettaStone/blob/main/images/PointSystem.png)
